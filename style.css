@@ -1,0 +1,28 @@
+body {
+    min-height: 2000px;
+  }
+  
+  .jumbotron {
+    padding-top: 8rem;
+    background-color: azure;
+  }
+  
+  .about {
+    background-color: azure;
+  }
+  
+  .gallery {
+    background-color: azure;
+  }
+  
+  .contact {
+    background-color: azure;
+  }
+  
+  footer {
+    background-color: #f897c4;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
